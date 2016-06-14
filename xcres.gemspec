@@ -37,5 +37,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'clamp', '~> 0.6.3'
   spec.add_runtime_dependency 'colored', '~> 1.2'
   spec.add_runtime_dependency 'activesupport', '>= 3.2.15'
-  spec.add_runtime_dependency 'xcodeproj', '~> 0.18'
+  spec.add_runtime_dependency 'xcodeproj', '~> 1.0'
 end
